@@ -1,0 +1,24 @@
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\bin\Debug\Lab 4.exe.config
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\bin\Debug\Lab 4.exe
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\bin\Debug\Lab 4.pdb
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab 4.csprojAssemblyReference.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab_4.Form1.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab 4.exe
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab 4.pdb
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab_4.Form2.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 4\obj\Debug\Lab_4.Form3.resources
+D:\Facultate\LaboratorMTP\Lab 4\bin\Debug\Lab 4.exe.config
+D:\Facultate\LaboratorMTP\Lab 4\bin\Debug\Lab 4.exe
+D:\Facultate\LaboratorMTP\Lab 4\bin\Debug\Lab 4.pdb
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab 4.csprojAssemblyReference.cache
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab_4.Form1.resources
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab_4.Form2.resources
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab_4.Form3.resources
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.cache
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab 4.exe
+D:\Facultate\LaboratorMTP\Lab 4\obj\Debug\Lab 4.pdb

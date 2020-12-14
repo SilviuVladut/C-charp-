@@ -1,0 +1,26 @@
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\bin\Debug\Lab 3.exe.config
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\bin\Debug\Lab 3.exe
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\bin\Debug\Lab 3.pdb
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab 3.exe
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab 3.pdb
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab_3.LPF.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab_3.JucatorForm.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab_3.EchipaForm.resources
+D:\OneDrive\Anul 3\MTP\C#\Lab 3\obj\Debug\Lab_3.FormLogin.resources
+D:\Facultate\LaboratorMTP\Lab 3\bin\Debug\Lab 3.exe.config
+D:\Facultate\LaboratorMTP\Lab 3\bin\Debug\Lab 3.exe
+D:\Facultate\LaboratorMTP\Lab 3\bin\Debug\Lab 3.pdb
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab_3.LPF.resources
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab_3.JucatorForm.resources
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab_3.EchipaForm.resources
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab_3.FormLogin.resources
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab 3.exe
+D:\Facultate\LaboratorMTP\Lab 3\obj\Debug\Lab 3.pdb

@@ -1,0 +1,10 @@
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\bin\Debug\VladutSilviu_Test_07.exe.config
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\bin\Debug\VladutSilviu_Test_07.exe
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\bin\Debug\VladutSilviu_Test_07.pdb
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.csprojAssemblyReference.cache
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.Form1.resources
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.Properties.Resources.resources
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.csproj.GenerateResource.cache
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.csproj.CoreCompileInputs.cache
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.exe
+D:\Facultate\TestMTP\VladutSilviu_Test_07\VladutSilviu_Test_07\obj\Debug\VladutSilviu_Test_07.pdb
